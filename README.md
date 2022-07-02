@@ -3,6 +3,16 @@ Simple lightweight CLI task monitor in Python 3. Prob better than task manager o
 
 I will keep working on this
 
+# Requirements & Third Party Modules
+
+Requirements:
+- Python 3.10 at least installed on your system and on your path
+
+Third Party Modules:
+- psutil
+- GPUtil
+- colorama
+
 # Installation
 
 **1. Just clone this repo:**
