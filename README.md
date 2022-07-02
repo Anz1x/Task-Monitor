@@ -18,5 +18,5 @@ Third Party Modules:
 **1. Just clone this repo:**
         git clone https://github.com/Anz1x/Task-Monitor/
         
-**2 Run the program (it will automatically install all the required modules if u dont have it)**
+**2 Run the program (it will automatically install all the required modules if u dont have it):**
         python3 main.py    
