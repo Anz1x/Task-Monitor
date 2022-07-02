@@ -20,3 +20,5 @@ Third Party Modules:
         
 **2 Run the program (it will automatically install all the required modules if u dont have it):**
         python3 main.py    
+        
+** OPTIONAL if u want u can set an alias for this and its highly recommended since it will be much easier to run it**
