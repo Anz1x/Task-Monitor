@@ -3,6 +3,8 @@ Simple lightweight CLI task monitor in Python 3. Prob better than task manager o
 
 I will keep working on this
 
+![image](https://user-images.githubusercontent.com/50573902/176994492-933ec44e-9c82-4bd3-8eee-4f5680d0b6b7.png)
+
 # Requirements & Third Party Modules
 
 Requirements:
